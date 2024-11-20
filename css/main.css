@@ -943,6 +943,13 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	list-style: none;
 	margin: 6rem 0 3rem;
 }
+.skill-bars .scroll-container {
+	max-height: 35rem; 
+	overflow-y: auto; 
+	padding: 50px; 
+  }
+
+
 .skill-bars li {
 	height: .6rem;
 	background: #a1a1a1;
